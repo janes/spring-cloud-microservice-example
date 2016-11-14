@@ -1,0 +1,21 @@
+[submodule "users-microservice"]
+	path = users-microservice
+	url = https://github.com/janes/users-microservice.git
+[submodule "recommendation-microservice"]
+	path = recommendation-microservice
+	url = https://github.com/janes/recommendation-microservice.git
+[submodule "discovery-microservice"]
+	path = discovery-microservice
+	url = https://github.com/janes/discovery-microservice.git
+[submodule "config-microservice"]
+	path = config-microservice
+	url = https://github.com/janes/config-microservice.git
+[submodule "consul-microservice"]
+	path = consul-microservice
+	url = https://github.com/janes/consul-microservice.git
+[submodule "api-gateway-microservice"]
+	path = api-gateway-microservice
+	url = https://github.com/janes/api-gateway-microservice.git
+[submodule "movie-microservice"]
+	path = movie-microservice
+	url = https://github.com/janes/movie-microservice.git
